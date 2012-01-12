@@ -6,5 +6,6 @@
 	[
 		79
 	],
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"auto_complete": false
 }
